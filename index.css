@@ -1,0 +1,95 @@
+/* 
+  |
+  |  DINWeb
+  |
+*/
+
+@font-face {
+  font-family:'DINWeb';
+  font-style: normal;
+  font-weight: 400;
+  src:
+    /* local('DINWeb'),  */
+    url('./files/DINWeb/DINWeb.woff') format('woff');
+}
+
+@font-face {
+  font-family:'DINWeb';
+  font-style: italic;
+  font-weight: 400;
+  src:
+    /* local('DINWeb-Ita'),  */
+    url('./files/DINWeb/DINWeb-Ita.woff') format('woff');
+}
+
+/* 
+  |
+  |  DINWeb-Light
+  |
+*/
+
+@font-face {
+  font-family:'DINWeb';
+  font-style: normal;
+  font-weight: 200;
+  src:
+    /* local('DINWeb-Medium'),  */
+    url('./files/DINWeb/DINWeb-Light.woff') format('woff');
+}
+
+@font-face {
+  font-family:'DINWeb';
+  font-style: italic;
+  font-weight: 200;
+  src:
+    /* local('DINWeb-Medium'),  */
+    url('./files/DINWeb/DINWeb-LightIta.woff') format('woff');
+}
+
+/* 
+  |
+  |  DINWeb-Medium
+  |
+*/
+
+@font-face {
+  font-family:'DINWeb';
+  font-style: normal;
+  font-weight: 500;
+  src:
+    /* local('DINWeb-Medium'),  */
+    url('./files/DINWeb/DINWeb-Medium.woff') format('woff');
+}
+
+@font-face {
+  font-family:'DINWeb';
+  font-style: italic;
+  font-weight: 500;
+  src:
+    /* local('DINWeb-Medium'),  */
+    url('./files/DINWeb/DINWeb-MediumIta.woff') format('woff');
+}
+
+/* 
+  |
+  |  DINWeb-Bold
+  |
+*/
+
+@font-face {
+  font-family: 'DINWeb';
+  font-style: normal;
+  font-weight: 700;
+  src:
+    /* local('DINWeb-Bold'), */
+    url('./files/DINWeb/DINWeb-Bold.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'DINWeb';
+  font-style: italic;
+  font-weight: 700;
+  src:
+    /* local('DINWeb-Bold'), */
+    url('./files/DINWeb/DINWeb-BoldIta.woff') format('woff');
+}
